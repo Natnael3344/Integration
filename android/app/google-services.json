@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "72127854913",
+    "project_id": "integration-4800a",
+    "storage_bucket": "integration-4800a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72127854913:android:f214ed7e3c0451bf0949c0",
+        "android_client_info": {
+          "package_name": "com.natnael.media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72127854913-47a17d17tfg3j237hk8b1rcd4h0m6htn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.natnael.media",
+            "certificate_hash": "87f0328cc7ea6c59c8265cd0faab0d0c6b9a96d1"
+          }
+        },
+        {
+          "client_id": "72127854913-6bocg84m9sthu2hc9c19e7bp206rq21l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHEfsg-e_bJkWDRPl-Ft5i7k0hRdtcvtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72127854913-6bocg84m9sthu2hc9c19e7bp206rq21l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
